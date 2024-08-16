@@ -62,7 +62,7 @@ print(W)                                                           # display wha
 More examples of this can be found in the documentation in the relevant source code files in `./humbert/` and in the `./scripts/` directory where the code is used to (1) verify some numerical claims in the paper and (2) generate the tables in Appendix B.
 
 #### Graphical display of intersection behaviour
-Something which is not used in the paper (though it was useful for finding fibrations) is the ability to generate figures which depict intersection behaviour of Hirzebruch--Zagier divisors and resolutions of cusp singularities. For example compare the output of the following with the image in Figure 19.
+Something which is not used in the paper (though it was useful for finding fibrations) is the ability to generate figures which depict intersection behaviour of Hirzebruch--Zagier divisors and resolutions of cusp singularities. For example compare the output of the following with the image in Figure 16.
 ``` python
 from humbert.znr import Ztil
 Z = Ztil(21, 5)
