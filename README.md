@@ -2,6 +2,9 @@
 
 This repository contains code related to the paper [On the geometry of the Humbert surface of square discriminant](https://arxiv.org/) by Sam Frengley. You are free to use this code in your work, please cite the above paper. Let me know if it is useful!
 
+![image](/assets/images/pic_15-7.svg)
+![image](/assets/images/pic_21-1.svg)
+
 ## Requirements
 You should have Python 3.8 or newer installed on your system (try `python3 --version`), certainly 3.6 and below will break because of f-strings (and I have mainly been testing on 3.12).
 
