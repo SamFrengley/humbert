@@ -1,6 +1,6 @@
 # Humbert surfaces
 
-This repository contains code related to the paper [On the geometry of the Humbert surface of square discriminant](https://arxiv.org/) by Sam Frengley. You are free to use this code in your work, please cite the above paper. Let me know if it is useful!
+This repository contains code related to the paper [On the geometry of the Humbert surface of square discriminant](https://arxiv.org/abs/2408.09830) by Sam Frengley [arXiv:2408.09830](https://arxiv.org/abs/2408.09830). You are free to use this code in your work, please cite the above paper. Let me know if it is useful!
 
 ![image](/assets/images/pic_15-7.svg)
 ![image](/assets/images/pic_21-1.svg)
